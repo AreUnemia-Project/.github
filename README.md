@@ -1,1 +1,2 @@
-# .github
+**AreUnemia (Are You Anemia)** is an application to detect anemia from a person’s physique appearances.
+Our team found an alarming rate of anemia among children and young adults in Indonesia, as revealed by the 2018 Riset Kesehatan Dasar. We recognized the urgent need for accessible healthcare solutions, particularly in remote areas where access to medical facilities may be limited, but still have access to the internet and smartphone. With technology, we plan on creating an app for detecting anemia. Our team wants to help individuals with convenient tools to assess their health status and seek appropriate care.
